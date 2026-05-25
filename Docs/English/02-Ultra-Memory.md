@@ -64,6 +64,9 @@ This list shows non-official but tested compatible memory. If two DIMMs work, fo
 | JUHOR JH4B50000334 | 16 GB | NO | ✅ | 4400 / 4800 MHz |  | 5600 MHz | 1R | |
 | Gloway VGM5SX56C46AG-STACNN | 16 GB | NO | ✅ | 4400 / 4800 MHz |  | 5600 MHz | 1R | |
 | Lenovo Generic N Series | 16 GB | NO | ✅ | 4400 / 4800 MHz | 4400 MHz | 5600 MHz | 1R | |
+| Crucial CT48G56C46S5.M16C1 | 48 GB | NO | ✅ | 5200 MHz |  | 5600 MHz | 2R | |
+| Crucial CT32G56C46S5.M8B1 | 32 GB | NO | ✅ | 5600MHz |  | 5600 MHz | 1R | |
+
 
 ### Memory Community Test Passlist
 | Memory brand & model | Capacity | ECC | Pass | 2-DIMM freq | 4-DIMM freq | Native freq | Rank | Failure notes |
